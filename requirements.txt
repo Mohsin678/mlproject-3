@@ -4,5 +4,8 @@ seaborn
 matplotlib
 catboost
 Flask
+python-dotenv
+mysql-connector-python
+pymysql
 
--e .
+#-e .
